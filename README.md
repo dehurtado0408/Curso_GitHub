@@ -49,7 +49,7 @@ Por favor, lee el archivo CONTRIBUTING.md para detalles sobre nuestro código de
 
 ## Autores
 
-- **Tu Nombre** - *Trabajo Inicial* - Tu Usuario
+- **Daniel Hurtado** - *Trabajo Inicial* - dehurtado0408
 
 Mira también la lista de colaboradores que han participado en este proyecto.
 
